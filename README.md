@@ -1,0 +1,1 @@
+# oc0.61-giga390ud-efi-5700xt
