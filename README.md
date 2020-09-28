@@ -15,3 +15,5 @@ AMD 5700XT 8GB
 ![](https://github.com/shayinqi/oc0.61-giga390ud-efi-5700xt/blob/master/photo/5700xt01.png)
 ![](https://github.com/shayinqi/oc0.61-giga390ud-efi-5700xt/blob/master/photo/5700xt02.png)
 ![](https://github.com/shayinqi/oc0.61-giga390ud-efi-5700xt/blob/master/photo/scores.png)
+![](https://github.com/shayinqi/oc0.61-giga390ud-efi-5700xt/blob/master/photo/mScore.png)
+
